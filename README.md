@@ -23,13 +23,11 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir hava durumu uygulamasıdır.
 - https://openweathermap.org/api
 
 ## Ekran Görüntüleri
-<img src="https://github.com/aybuss/Hava-Durumu-Uygulamasi-flutter/assets/80958621/b920e2f7-5355-437b-9ad6-ac05f77b0838" width="300">
+<img src="https://github.com/aybukeoguz/Hava-Durumu-Uygulamasi-flutter/assets/80958621/2814daf1-b511-45a8-b37e-20bcec96cc2b" width="300">
+
+<img src="https://github.com/aybukeoguz/Hava-Durumu-Uygulamasi-flutter/assets/80958621/eff458f3-3165-4ded-819a-eca4b7fd37d3" width="300">
 
 
-
-
-
-<img src="https://github.com/aybuss/Hava-Durumu-Uygulamasi-flutter/assets/80958621/4f313297-88f3-4233-b8b5-8f4de508b8fb" width="300">
 
 
 ## Kullanım
