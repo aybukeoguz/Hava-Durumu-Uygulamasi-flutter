@@ -11,7 +11,7 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir hava durumu uygulamasıdır.
 ## Kurulum
 
 1. Flutter SDK'nın kurulu olduğundan emin olun.
-2. Depoyu klonlayın: `git clone [repo bağlantısı]`.
+2. Depoyu klonlayın: `git clone`.
 3. Bağımlılıkları yükleyin: `flutter pub get`.
 4. Uygulamayı çalıştırın: `flutter run`.
 
